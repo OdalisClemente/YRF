@@ -1,9 +1,9 @@
-Nombres;Apellidos;Universidad
-Odalis;Clemente;UNEMI
-Pedro;Luzuriaga;Yachay
-Carlos;Villegas;Central
-Milena;Escobar;PUCE
-Alan;Morales;PUCE
-Jean;Munoz;Estatal_Manabi
-carla;Mera;UNEMI
+Nombres,Apellidos,Universidad
+Odalis,Clemente,UNEMI
+Pedro,Luzuriaga,Yachay
+Carlos,Villegas,Central
+Milena,Escobar,PUCE
+Alan,Morales,PUCE
+Jean,Munoz,Estatal_Manabi
+carla,Mera,UNEMI
 Anna,Marcillo,UDLA,26
