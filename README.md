@@ -13,4 +13,4 @@ Este es un repositorio que creé para la clase de Git Y GitHub de Odalis.
 
 Este es un cambio que realice para practicar mis commit
 
-- [sufre mi amor de vuelveme a mi chica y te revolcaras entre polvos pica a pica](Sufremiamor)
+- [Sufremiamor](sufre mi amor de vuelveme a mi chica y te revolcaras entre polvos pica a pica)
